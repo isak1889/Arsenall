@@ -1,0 +1,15 @@
+C:\Users\isak.eriksson4\proggramering\Arsenall\Arsenall\bin\Debug\net8.0\Arsenall.exe
+C:\Users\isak.eriksson4\proggramering\Arsenall\Arsenall\bin\Debug\net8.0\Arsenall.deps.json
+C:\Users\isak.eriksson4\proggramering\Arsenall\Arsenall\bin\Debug\net8.0\Arsenall.runtimeconfig.json
+C:\Users\isak.eriksson4\proggramering\Arsenall\Arsenall\bin\Debug\net8.0\Arsenall.dll
+C:\Users\isak.eriksson4\proggramering\Arsenall\Arsenall\bin\Debug\net8.0\Arsenall.pdb
+C:\Users\isak.eriksson4\proggramering\Arsenall\Arsenall\obj\Debug\net8.0\Arsenall.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\isak.eriksson4\proggramering\Arsenall\Arsenall\obj\Debug\net8.0\Arsenall.AssemblyInfoInputs.cache
+C:\Users\isak.eriksson4\proggramering\Arsenall\Arsenall\obj\Debug\net8.0\Arsenall.AssemblyInfo.cs
+C:\Users\isak.eriksson4\proggramering\Arsenall\Arsenall\obj\Debug\net8.0\Arsenall.csproj.CoreCompileInputs.cache
+C:\Users\isak.eriksson4\proggramering\Arsenall\Arsenall\obj\Debug\net8.0\Arsenall.dll
+C:\Users\isak.eriksson4\proggramering\Arsenall\Arsenall\obj\Debug\net8.0\refint\Arsenall.dll
+C:\Users\isak.eriksson4\proggramering\Arsenall\Arsenall\obj\Debug\net8.0\Arsenall.pdb
+C:\Users\isak.eriksson4\proggramering\Arsenall\Arsenall\obj\Debug\net8.0\Arsenall.genruntimeconfig.cache
+C:\Users\isak.eriksson4\proggramering\Arsenall\Arsenall\obj\Debug\net8.0\ref\Arsenall.dll
+C:\Users\isak.eriksson4\proggramering\Arsenall\Arsenall\bin\Debug\net8.0\weapon.json
